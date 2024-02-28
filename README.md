@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently a student at TIET, pursuing computer science, keen interest in DSA using CPP, learning MERN stack, i have knowledge of kali linux, and IOT
+Hey there everyone, I am yash agnihotri, currently a freshman at Thapar institute.
+I am currently learning NextJS, while also practicing my DSA at the same time.
 
 
 ## 🌐 Socials:
