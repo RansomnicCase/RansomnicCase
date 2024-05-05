@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hey there everyone, I am yash agnihotri, currently a freshman at Thapar institute.
-I am currently learning NextJS, while also practicing my DSA at the same time.
+Projects are self coded, none stolen.
+TIET 27'
+
 
 
 ## 🌐 Socials:
