@@ -4,7 +4,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Skills I actively misuse:
 
@@ -23,13 +23,13 @@
 
 ---
 
-## 📉 Least Contributed Repo
+## Least Contributed Repo
 
 *That one DSA Library.* Started with grand ambitions. Ended with a half-finished Segment Tree and a heavy sense of dread.
 
 ---
 
-## 🐌 Productivity Meter
+## Productivity Meter
 
 ```
 🟦🟦🟦🟦🟦🟦🟦🟦 Waiting for the compiler...
@@ -40,7 +40,7 @@
 
 ---
 
-## 🧨 Current Projects
+## Current Projects
 
 - **AI Code Detection Evasion**: Teaching machines to hide from other machines.
 - **TCP Chat over carrier pigeon**: High latency, higher stakes.
@@ -64,7 +64,7 @@ Every push_back is just an attempt to fill the emptiness.
 
 ---
 
-## 📉 Status
+## Status
 
 ```
 [████████████████████] 110% CPU usage
