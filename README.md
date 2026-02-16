@@ -1,4 +1,4 @@
-# ☣️ cannizzaro / Yash
+# Cannizzaro / Yash
 
 > *"The universe is a race condition. I am just here to `SIGSEGV`."*
 
